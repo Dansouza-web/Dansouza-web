@@ -70,6 +70,5 @@ Quer trocar uma ideia sobre dados, desenvolvimento web ou carreira em tech, ou t
 
 </div>
 
-<details>
 
 
