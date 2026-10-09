@@ -122,7 +122,7 @@ class Daniel:
 
 <img src="https://github-profile-trophy.vercel.app/?username=Dansouza-web&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Troféus do GitHub" />
 
-<img src="https://raw.githubusercontent.com/Dansouza-web/Dansouza-web/output/github-snake-cyber.svg" alt="Cobrinha comendo as contribuições do GitHub" width="100%" />
+<img src="https://raw.githubusercontent.com/Dansouza-web/Dansouza-web/output/github-snake-cyber.svg?v=2" alt="Cobrinha comendo as contribuições do GitHub" width="100%" />
 
 </div>
 
