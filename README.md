@@ -61,8 +61,6 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 
 <h2><img src="./assets/headers/stack.svg" width="100%" alt="03. Stack" /></h2>
 
-> Organizei por **nível real de experiência**, sem barrinhas de porcentagem inventadas. Esta lista cresce junto comigo. <!-- EDITE: ajuste os grupos conforme você evoluir -->
-
 **🟢 Base sólida**
 
 ![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00F0FF)
@@ -89,23 +87,7 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 ![OpenCV](https://img.shields.io/badge/OpenCV_(cv2)-050816?style=for-the-badge&logo=opencv&logoColor=00F0FF)
 
 <br/>
-
-<h2><img src="./assets/headers/bio.svg" width="100%" alt="04. Bio em código" /></h2>
-
-```python
-class Daniel:
-    def __init__(self):
-        self.nome = "Daniel de Souza"
-        self.base = "São Paulo, Brasil"
-        self.foco = ["Desenvolvimento Web", "Análise de Dados"]
-        self.estudando = ["Python", "JavaScript", "React", "SQL"]
-        self.missao = "Criar software que ajuda pessoas"
-
-    def aprender(self):
-        return "Um commit de cada vez 🚀"
-```
-
-<!-- EDITE: quando tiver um projeto pronto e publicado, é aqui que entra a seção de PROJETOS. -->
+>
 
 <br/>
 
@@ -118,9 +100,9 @@ class Daniel:
 
 <img src="https://streak-stats.demolab.com?user=Dansouza-web&background=050816&ring=FF007F&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7A00FF&stroke=7A00FF&border=7A00FF&locale=pt_BR" alt="Sequência de contribuições" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dansouza-web&bg_color=050816&color=00F0FF&line=FF007F&point=FFFFFF&area=true&area_color=7A00FF&hide_border=true&custom_title=Atividade%20recente" alt="Gráfico de atividade recente" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dansouza-web&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Troféus do GitHub" />
+
+
 
 <img src="https://raw.githubusercontent.com/Dansouza-web/Dansouza-web/output/github-snake-cyber.svg?v=2" alt="Cobrinha comendo as contribuições do GitHub" width="100%" />
 
