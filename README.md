@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-souza-8b554335b/)
 [![E-mail](https://img.shields.io/badge/E--mail-FF007F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsouzapython@gmail.com)
 
-Soum Estudante e estou construindo minha carreira em tecnologia, com foco em **desenvolvimento web** e **análise de dados**. Hoje estudo **Python**, **JavaScript**, **SQL** e **React** e sigo praticando todo dia para conquistar minha primeira oportunidade na área.
+Sou um Estudante e estou construindo minha carreira em tecnologia, com foco em **desenvolvimento web** e **análise de dados**. Hoje estudo **Python**, **JavaScript**, **SQL** e **React** e sigo praticando todo dia para conquistar minha primeira oportunidade na área.
 
 O que me move é transformar dados e ideias em produtos que realmente ajudam pessoas. Fora do código, gosto de música e quero juntar as duas coisas em projetos com JavaScript, HTML e CSS.
 
