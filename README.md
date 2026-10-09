@@ -153,4 +153,4 @@ Quer trocar uma ideia sobre dados, desenvolvimento web ou carreira em tech, ou t
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Todo dev experiente já foi iniciante. git commit -m meu primeiro commit na carreira em tech" />
+
