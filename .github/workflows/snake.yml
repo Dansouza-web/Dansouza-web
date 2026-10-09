@@ -22,8 +22,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-cyber.svg?color_snake=#FF007F&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
-      - name: Publicar na branch output
+            dist/github-snake-cyber.svg?color_snake=#FF007F&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
