@@ -20,7 +20,7 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 
 <h2><img src="./assets/headers/stack.svg" width="100%" alt="03. Stack" /></h2>
 
-**🟢 Data Science & Analytics**
+🛠️🟢 Data Science & Analytics
 
 ![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00F0FF)
 ![CSS3](https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=0066FF)
@@ -32,7 +32,7 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 ![Google Colab](https://img.shields.io/badge/Google_Colab-050816?style=for-the-badge&logo=googlecolab&logoColor=FF007F)
 ![VS Code](https://img.shields.io/badge/VS_Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=0066FF)
 
-**🔵 Software & Backend Development **
+🛠️🔵 Software & Backend Development 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=00F0FF)
 ![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00F0FF)
