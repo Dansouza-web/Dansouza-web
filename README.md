@@ -1,22 +1,6 @@
 
+<h1>Oi, me chamo Daniel! 👋</h1>
 
-
-
-<br/>
-
-
-
-
-
-</div>
-
-<br/>
-
-<h2><img src="./assets/headers/sobre.svg" width="100%" alt="01. Sobre mim" /></h2>
-
-<br/>
-
-Oi, eu sou o **Daniel**! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-souza-8b554335b/)
 [![E-mail](https://img.shields.io/badge/E--mail-FF007F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsouzapython@gmail.com)
 
