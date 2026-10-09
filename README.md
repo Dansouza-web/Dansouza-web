@@ -22,12 +22,12 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 
 <h2>🛠️🟢 Data Science & Analytics</h2>
 
-
+![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=00F0FF)
 ![Pandas](https://img.shields.io/badge/Pandas-050816?style=for-the-badge&logo=pandas&logoColor=FF007F)
 ![NumPy](https://img.shields.io/badge/NumPy-050816?style=for-the-badge&logo=numpy&logoColor=0066FF)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-050816?style=for-the-badge&logoColor=7A00FF)
 ![Seaborn](https://img.shields.io/badge/Seaborn-050816?style=for-the-badge&logoColor=00F0FF)
-![Google Colab](https://img.shields.io/badge/Google_Colab-050816?style=for-the-badge&logo=googlecolab&logoColor=FF007F)
+
 
 <br></br>
 <h2>🛠️🔵Software & Backend Development</h2>
