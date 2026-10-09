@@ -61,17 +61,24 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 
 <h2><img src="./assets/headers/stack.svg" width="100%" alt="03. Stack" /></h2>
 
-**🟢 Base sólida**
+**🟢 Data Science & Analytics**
 
 ![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00F0FF)
 ![CSS3](https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=0066FF)
 ![Figma](https://img.shields.io/badge/Figma-050816?style=for-the-badge&logo=figma&logoColor=FF007F)
+![Pandas](https://img.shields.io/badge/Pandas-050816?style=for-the-badge&logo=pandas&logoColor=FF007F)
+![NumPy](https://img.shields.io/badge/NumPy-050816?style=for-the-badge&logo=numpy&logoColor=0066FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-050816?style=for-the-badge&logoColor=7A00FF)
+![Seaborn](https://img.shields.io/badge/Seaborn-050816?style=for-the-badge&logoColor=00F0FF)
+![Google Colab](https://img.shields.io/badge/Google_Colab-050816?style=for-the-badge&logo=googlecolab&logoColor=FF007F)
+![VS Code](https://img.shields.io/badge/VS_Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=0066FF)
 
-**🔵 Praticando todo dia**
+**🔵 Software & Backend Development **
 
-![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=00F0FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=00F0FF)
-![SQL](https://img.shields.io/badge/SQL-050816?style=for-the-badge&logoColor=FF007F)
+![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00F0FF)
+![CSS3](https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=0066FF)
+![Figma](https://img.shields.io/badge/Figma-050816?style=for-the-badge&logo=figma&logoColor=FF007F)
 ![Pandas](https://img.shields.io/badge/Pandas-050816?style=for-the-badge&logo=pandas&logoColor=FF007F)
 ![NumPy](https://img.shields.io/badge/NumPy-050816?style=for-the-badge&logo=numpy&logoColor=0066FF)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-050816?style=for-the-badge&logoColor=7A00FF)
@@ -80,11 +87,7 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 ![VS Code](https://img.shields.io/badge/VS_Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=0066FF)
 ![Git](https://img.shields.io/badge/Git_%26_GitHub-050816?style=for-the-badge&logo=github&logoColor=7A00FF)
 
-**🟣 Explorando**
 
-![React](https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=7A00FF)
-![Random Forest](https://img.shields.io/badge/Random_Forest-050816?style=for-the-badge&logo=scikitlearn&logoColor=FF007F)
-![OpenCV](https://img.shields.io/badge/OpenCV_(cv2)-050816?style=for-the-badge&logo=opencv&logoColor=00F0FF)
 
 <br/>
 >
