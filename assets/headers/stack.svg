@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" role="img" aria-labelledby="t">
-<title id="t">Stack</title>
+<title id="t">Ferramentas</title>
 <defs>
 <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
 <feGaussianBlur stdDeviation="3.5" result="b"/>
