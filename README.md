@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Daniel de Souza. Full Stack em formação, Dados e Web. Banner estilo cyberpunk com grade neon, sol e silhueta de uma cidade." />
+<img src="./assets/banner.svg" width="100%" alt="Daniel de Souza. Dados, Web e Python. Banner estilo cyberpunk com grade neon, sol e silhueta de uma cidade." />
 
 <br/>
 
@@ -26,29 +26,40 @@
 <h2><img src="./assets/headers/sobre.svg" width="100%" alt="01. Sobre mim" /></h2>
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal animado. whoami: Daniel de Souza, estudante de Desenvolvimento Full Stack. Missão: conquistar a primeira vaga em tecnologia criando software que ajuda pessoas. Stack: python, javascript, react, sql, html, css, pandas. Status: aberto a oportunidades e estudando todo dia." />
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal animado. whoami: Daniel de Souza, estudante de Dados e Desenvolvimento Web. Missão: conquistar a primeira vaga em tecnologia criando software que ajuda pessoas. Stack: python, javascript, react, sql, html, css, pandas. Status: aberto a oportunidades e estudando todo dia." />
 </div>
 
 <br/>
 
 Oi, eu sou o **Daniel**! 👋
 
-Moro em **São Paulo** e estou construindo minha carreira em tecnologia. Fui selecionado para o **Pró-Profissão do Instituto PROA (em parceria com o SENAC)**, um processo com cerca de **3 mil inscritos para 150 vagas**, e hoje mergulho em lógica de programação e desenvolvimento **Full Stack** em uma formação intensiva de **440 horas**.
+Moro em **São Paulo** e estou construindo minha carreira em tecnologia, com foco em **desenvolvimento web** e **análise de dados**. Hoje estudo Python, JavaScript, SQL e React e sigo praticando todo dia para conquistar minha primeira oportunidade na área.
 
-O que me move é transformar dados e ideias em produtos que realmente ajudam pessoas. Por isso meu primeiro grande projeto é sobre **acessibilidade**. Fora do código, gosto de música e quero juntar as duas coisas em projetos com JavaScript, HTML e CSS.
+O que me move é transformar dados e ideias em produtos que realmente ajudam pessoas. Fora do código, gosto de música e quero juntar as duas coisas em projetos com JavaScript, HTML e CSS.
 
 | | |
 |:--|:--|
 | 📍 **Base** | São Paulo, Brasil |
-| 🎓 **Formação** | Pró-Profissão · Instituto PROA × SENAC (440h) |
 | 🎯 **Foco** | Desenvolvimento web e análise de dados |
 | 🔭 **Estudando agora** | Python · JavaScript · React · SQL · HTML · CSS |
-| 🚀 **Procurando** | Minha primeira oportunidade em tecnologia (estágio ou júnior) <!-- EDITE --> |
-| 💬 **Pergunte-me sobre** | acessibilidade, análise de dados e como é aprender a programar do zero |
+| 🚀 **Procurando** | Minha primeira oportunidade em tecnologia <!-- EDITE --> |
+| 💬 **Pergunte-me sobre** | análise de dados, acessibilidade e como é aprender a programar do zero |
 
 <br/>
 
-<h2><img src="./assets/headers/stack.svg" width="100%" alt="02. Stack" /></h2>
+<h2><img src="./assets/headers/interesses.svg" width="100%" alt="02. Áreas de interesse" /></h2>
+
+<!-- EDITE: deixe só o que realmente faz sentido para você -->
+
+- 🌐 Desenvolvimento Web (Front-end)
+- 📊 Análise e Visualização de Dados
+- 🤖 Machine Learning e Visão Computacional
+- ♿ Acessibilidade e Tecnologia
+- 🎵 Música e Programação
+
+<br/>
+
+<h2><img src="./assets/headers/stack.svg" width="100%" alt="03. Stack" /></h2>
 
 > Organizei por **nível real de experiência**, sem barrinhas de porcentagem inventadas. Esta lista cresce junto comigo. <!-- EDITE: ajuste os grupos conforme você evoluir -->
 
@@ -79,93 +90,22 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 
 <br/>
 
-<h2><img src="./assets/headers/projetos.svg" width="100%" alt="03. Projetos em destaque" /></h2>
+<h2><img src="./assets/headers/bio.svg" width="100%" alt="04. Bio em código" /></h2>
 
-<!-- EDITE: troque cada "#" pelo link do repositório quando ele estiver pronto -->
+```python
+class Daniel:
+    def __init__(self):
+        self.nome = "Daniel de Souza"
+        self.base = "São Paulo, Brasil"
+        self.foco = ["Desenvolvimento Web", "Análise de Dados"]
+        self.estudando = ["Python", "JavaScript", "React", "SQL"]
+        self.missao = "Criar software que ajuda pessoas"
 
-<table>
-<tr>
-<td colspan="2">
+    def aprender(self):
+        return "Um commit de cada vez 🚀"
+```
 
-### 🔊 Vozver · *Ouça, Encontre, Escolha*
-
-App de **acessibilidade** que ajuda pessoas cegas ou com baixa visão a identificar produtos e embalagens no mercado, usando a câmera do celular e respondendo **em voz alta**.
-
-📷 **Aponta a câmera** ➜ 🧠 **Identifica o produto** ➜ 🔊 **Fala o que encontrou**
-
-- **A dor:** identificar produtos e embalagens sem ajuda é difícil e limita a autonomia.
-- **O que entrega:** mais independência, mais autonomia e mais acessibilidade.
-- **Meu papel:** Dev e Dados, dividindo a parte de dados com um colega de equipe.
-- **Onde estamos:** Sprint 1 apresentada no Demoday (29/09/2026). O feedback foi embasar a ideia com dados e pesquisas, e é exatamente o que estou construindo agora, com dados reais do **Censo 2022 (IBGE)**.
-
-![Acessibilidade](https://img.shields.io/badge/Acessibilidade-050816?style=flat-square&labelColor=050816&color=00F0FF)
-![Front-end](https://img.shields.io/badge/Front--end-050816?style=flat-square&labelColor=050816&color=FF007F)
-![Dados](https://img.shields.io/badge/Dados-050816?style=flat-square&labelColor=050816&color=7A00FF)
-![Status](https://img.shields.io/badge/Em_desenvolvimento-0066FF?style=flat-square&labelColor=050816)
-
-**[🔗 Ver repositório](#)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Análise de Dados · Vozver
-
-Análise exploratória dos dados do **Censo 2022 do IBGE** sobre pessoas com deficiência, para sustentar a proposta do Vozver com números e não com achismo.
-
-**Ferramentas:** Python, Pandas, Matplotlib e Seaborn, no VS Code.
-
-![Python](https://img.shields.io/badge/Python-050816?style=flat-square&labelColor=050816&color=00F0FF)
-![Pandas](https://img.shields.io/badge/Pandas-050816?style=flat-square&labelColor=050816&color=FF007F)
-![Em andamento](https://img.shields.io/badge/Em_andamento-0066FF?style=flat-square&labelColor=050816)
-
-**[🔗 Ver repositório](#)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🥁 Bateria Virtual
-
-Uma bateria (drum kit) que toca direto no navegador: cada tecla ou clique dispara um som, com resposta visual. Meu primeiro projeto juntando **música e código**.
-
-**Ferramentas:** HTML, CSS e JavaScript.
-
-![HTML](https://img.shields.io/badge/HTML-050816?style=flat-square&labelColor=050816&color=00F0FF)
-![CSS](https://img.shields.io/badge/CSS-050816?style=flat-square&labelColor=050816&color=0066FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=flat-square&labelColor=050816&color=FF007F)
-![Em andamento](https://img.shields.io/badge/Em_andamento-0066FF?style=flat-square&labelColor=050816)
-
-**[🔗 Ver repositório](#)**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### ✨ Próximas fases
-Um projeto em **React** e outro aplicando **Python** ao Full Stack. Quando saírem, ganham um cartão aqui.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h2><img src="./assets/headers/jornada.svg" width="100%" alt="04. Jornada e roadmap" /></h2>
-
-<!-- EDITE: marque com [x] o que você for concluindo. É a parte do README que mais mostra evolução. -->
-
-- [x] **2º semestre de 2026** · Aprovado no Pró-Profissão (PROA × SENAC), entre cerca de 3 mil inscritos
-- [x] HTML e CSS
-- [x] Lógica de programação e algoritmos (VisualG)
-- [x] **29/09/2026** · Demoday: apresentação da Sprint 1 do Vozver
-- [ ] Análise de dados do Censo 2022 para embasar o Vozver *(em andamento)*
-- [ ] Bateria Virtual com JavaScript *(em andamento)*
-- [ ] Primeiro projeto com **React**
-- [ ] **Python** aplicado ao desenvolvimento Full Stack
-- [ ] **SQL** com um banco de dados de verdade
-- [ ] Conquistar minha primeira vaga em tecnologia 🎯
+<!-- EDITE: quando tiver um projeto pronto e publicado, é aqui que entra a seção de PROJETOS. -->
 
 <br/>
 
@@ -190,7 +130,7 @@ Um projeto em **React** e outro aplicando **Python** ao Full Stack. Quando saír
 
 <h2><img src="./assets/headers/contato.svg" width="100%" alt="06. Contato" /></h2>
 
-Curtiu algum projeto, quer trocar uma ideia sobre dados, acessibilidade ou carreira em tech, ou tem uma oportunidade? Me chama, vou adorar conversar. 💜
+Quer trocar uma ideia sobre dados, desenvolvimento web ou carreira em tech, ou tem uma oportunidade? Me chama, vou adorar conversar. 💜
 
 <div align="center">
 
