@@ -61,7 +61,7 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 
 <h2><img src="./assets/headers/contato.svg" width="100%" alt="06. Contato" /></h2>
 
-Quer trocar uma ideia sobre dados, desenvolvimento web ou carreira em tech, ou tem uma oportunidade? Me chama, vou adorar conversar. 💜
+Quer trocar uma ideia sobre dados, desenvolvimento web ou carreira em tech, ou tem uma oportunidade? Me chama, vou adorar conversar.
 
 <div align="center">
 
@@ -71,17 +71,5 @@ Quer trocar uma ideia sobre dados, desenvolvimento web ou carreira em tech, ou t
 </div>
 
 <details>
-<summary>⚙️ Como este README foi feito</summary>
-
-<br/>
-
-- Banner, terminal e cabeçalhos são **SVGs animados** que ficam na pasta `assets/`, feitos só com SVG e CSS/SMIL (sem JavaScript e sem depender de serviços externos).
-- Os cartões de estatísticas vêm do `github-readme-stats`, `streak-stats`, `github-readme-activity-graph` e `github-profile-trophy`, todos usando a minha paleta.
-- A cobrinha das contribuições é gerada automaticamente por um **GitHub Action** (`.github/workflows/snake.yml`) a cada 12 horas.
-- Cores: `#050816` · `#00F0FF` · `#0066FF` · `#7A00FF` · `#FF007F`
-
-</details>
-
-<br/>
 
 
