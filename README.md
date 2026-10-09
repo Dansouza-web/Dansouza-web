@@ -1,23 +1,12 @@
-<!-- ==========================================================================
-  README DE PERFIL · Daniel de Souza
-  Paleta: #050816 fundo · #00F0FF cyan · #0066FF azul · #7A00FF violeta · #FF007F pink
-  Os arquivos visuais ficam na pasta /assets (SVGs animados, sem JavaScript).
-  Tudo que estiver marcado com "EDITE" é para você personalizar.
-========================================================================== -->
 
-<div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Daniel de Souza. Dados, Web e Python. Banner estilo cyberpunk com grade neon, sol e silhueta de uma cidade." />
+
 
 <br/>
 
-![Status](https://img.shields.io/badge/STATUS-ABERTO_A_OPORTUNIDADES-00F0FF?style=for-the-badge&labelColor=050816)
-![Base](https://img.shields.io/badge/BASE-S%C3%83O_PAULO_%C2%B7_BR-7A00FF?style=for-the-badge&labelColor=050816)
-![Foco](https://img.shields.io/badge/FOCO-WEB_%26_DADOS-FF007F?style=for-the-badge&labelColor=050816)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-souza-8b554335b/)
-[![E-mail](https://img.shields.io/badge/E--mail-FF007F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsouzapython@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dansouza-web)
+
+
 
 </div>
 
@@ -25,13 +14,11 @@
 
 <h2><img src="./assets/headers/sobre.svg" width="100%" alt="01. Sobre mim" /></h2>
 
-<div align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal animado. whoami: Daniel de Souza, estudante de Dados e Desenvolvimento Web. Missão: conquistar a primeira vaga em tecnologia criando software que ajuda pessoas. Stack: python, javascript, react, sql, html, css, pandas. Status: aberto a oportunidades e estudando todo dia." />
-</div>
-
 <br/>
 
 Oi, eu sou o **Daniel**! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-souza-8b554335b/)
+[![E-mail](https://img.shields.io/badge/E--mail-FF007F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsouzapython@gmail.com)
 
 Moro em **São Paulo** e estou construindo minha carreira em tecnologia, com foco em **desenvolvimento web** e **análise de dados**. Hoje estudo Python, JavaScript, SQL e React e sigo praticando todo dia para conquistar minha primeira oportunidade na área.
 
@@ -45,19 +32,7 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 | 🚀 **Procurando** | Minha primeira oportunidade em tecnologia <!-- EDITE --> |
 | 💬 **Pergunte-me sobre** | análise de dados, acessibilidade e como é aprender a programar do zero |
 
-<br/>
 
-<h2><img src="./assets/headers/interesses.svg" width="100%" alt="02. Áreas de interesse" /></h2>
-
-<!-- EDITE: deixe só o que realmente faz sentido para você -->
-
-- 🌐 Desenvolvimento Web (Front-end)
-- 📊 Análise e Visualização de Dados
-- 🤖 Machine Learning e Visão Computacional
-- ♿ Acessibilidade e Tecnologia
-- 🎵 Música e Programação
-
-<br/>
 
 <h2><img src="./assets/headers/stack.svg" width="100%" alt="03. Stack" /></h2>
 
@@ -82,11 +57,6 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 
 
 
-
-<br/>
->
-
-<br/>
 
 <h2><img src="./assets/headers/estatisticas.svg" width="100%" alt="05. Estatísticas do GitHub" /></h2>
 
