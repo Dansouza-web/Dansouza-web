@@ -1,0 +1,33 @@
+name: Gerar cobrinha das contribuições
+
+on:
+  # roda a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+  # roda também quando você atualiza a branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  gerar-cobrinha:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Gerar o SVG da cobrinha (cores cyberpunk)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-cyber.svg?color_snake=FF007F&color_dots=0A1030,0066FF,7A00FF,00F0FF,FF007F
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
