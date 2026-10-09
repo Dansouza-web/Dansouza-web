@@ -20,19 +20,17 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 
 <h2><img src="./assets/headers/stack.svg" width="100%" alt="03. Stack" /></h2>
 
-🛠️🟢 Data Science & Analytics
+<h2>🛠️🟢 Data Science & Analytics</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00F0FF)
-![CSS3](https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=0066FF)
-![Figma](https://img.shields.io/badge/Figma-050816?style=for-the-badge&logo=figma&logoColor=FF007F)
+
 ![Pandas](https://img.shields.io/badge/Pandas-050816?style=for-the-badge&logo=pandas&logoColor=FF007F)
 ![NumPy](https://img.shields.io/badge/NumPy-050816?style=for-the-badge&logo=numpy&logoColor=0066FF)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-050816?style=for-the-badge&logoColor=7A00FF)
 ![Seaborn](https://img.shields.io/badge/Seaborn-050816?style=for-the-badge&logoColor=00F0FF)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-050816?style=for-the-badge&logo=googlecolab&logoColor=FF007F)
-![VS Code](https://img.shields.io/badge/VS_Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=0066FF)
 
-🛠️🔵 Software & Backend Development 
+<br></br>
+<h2>🛠️🔵Software & Backend Development</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=00F0FF)
 ![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00F0FF)
