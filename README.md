@@ -18,8 +18,6 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 ![NumPy](https://img.shields.io/badge/NumPy-050816?style=for-the-badge&logo=numpy&logoColor=0066FF)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-050816?style=for-the-badge&logoColor=7A00FF)
 ![Seaborn](https://img.shields.io/badge/Seaborn-050816?style=for-the-badge&logoColor=00F0FF)
-
-
 <br></br>
 <h2>🛠️🔵Software & Backend Development</h2>
 
