@@ -42,7 +42,7 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 
 
 
-<img src="https://raw.githubusercontent.com/Dansouza-web/Dansouza-web/output/github-snake-cyber.svg?v=2" alt="Cobrinha comendo as contribuições do GitHub" width="100%" />
+<img src="https://raw.githubusercontent.com/Dansouza-web/Dansouza-web/output/github-snake-custom.svg" alt="Cobrinha comendo as contribuições do GitHub" />
 
 </div>
 
