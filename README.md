@@ -1,5 +1,5 @@
 
-<h1>Oi, me chamo Daniel! 👋</h1>
+<h1>Hi there, I'm Daniel! 👋</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-souza-8b554335b/)
 [![E-mail](https://img.shields.io/badge/E--mail-FF007F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsouzapython@gmail.com)
