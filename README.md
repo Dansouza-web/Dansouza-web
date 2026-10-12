@@ -8,15 +8,6 @@ Sou um Estudante e estou construindo minha carreira em tecnologia, com foco em *
 
 O que me move é transformar dados e ideias em produtos que realmente ajudam pessoas. Fora do código, gosto de música e quero juntar as duas coisas em projetos com JavaScript, HTML e CSS.
 
-| | |
-|:--|:--|
-| 📍 **Base** | São Paulo, Brasil |
-| 🎯 **Foco** | Desenvolvimento web e análise de dados |
-| 🔭 **Estudando agora** | Python · JavaScript · React · SQL · HTML · CSS |
-| 🚀 **Procurando** | Minha primeira oportunidade em tecnologia <!-- EDITE --> |
-| 💬 **Pergunte-me sobre** | análise de dados, acessibilidade e como é aprender a programar do zero |
-
-
 
 <h2><img src="./assets/headers/stack.svg" width="100%" alt="03. Stack" /></h2>
 
