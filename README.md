@@ -9,9 +9,9 @@ Sou um Estudante e estou construindo minha carreira em tecnologia, com foco em *
 O que me move é transformar dados e ideias em produtos que realmente ajudam pessoas. Fora do código, gosto de música e quero juntar as duas coisas em projetos com JavaScript, HTML e CSS.
 
 
-<h2><img src="./assets/headers/stack.svg" width="100%" alt="03. Stack" /></h2>
-
-<h2>🛠️🟢 Data Science & Analytics</h2>
+>
+<h1> Ferramentas Que Utilizo <h2>
+<h2>🛠️🟢 Data Science & Análise de Dados</h2>
 
 ![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=00F0FF)
 ![Pandas](https://img.shields.io/badge/Pandas-050816?style=for-the-badge&logo=pandas&logoColor=FF007F)
@@ -19,7 +19,7 @@ O que me move é transformar dados e ideias em produtos que realmente ajudam pes
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-050816?style=for-the-badge&logoColor=7A00FF)
 ![Seaborn](https://img.shields.io/badge/Seaborn-050816?style=for-the-badge&logoColor=00F0FF)
 <br></br>
-<h2>🛠️🔵Software & Backend Development</h2>
+<h2>🛠️🔵Software & Desenvolvimento FrontEnd</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=00F0FF)
 ![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00F0FF)
